@@ -24,8 +24,6 @@ The model is trained on a specialized kidney imaging dataset. All images are pre
     * **Stone:** Calcified renal calculi.
     * **Tumor:** Malignant or benign masses.
 
-
-
 ## 📊 Quantitative Results (Estimated Benchmarks)
 *Note: These values represent the expected performance levels for SA-MedGAN at 1024x1024 resolution compared to standard GAN baselines.*
 
@@ -42,8 +40,9 @@ The complete modular implementation is available in the provided Jupyter Noteboo
 * **Notebook File:** `progan.ipynb` (Includes architecture, training loop, and evaluation metrics).
 
 ### 2. Pre-trained Models
-Due to high resolution and model size, the trained weights are hosted on Kaggle.
-* **Kaggle Model URL:** `[PLACEHOLDER: [Insert your Kaggle Model Link here](https://www.kaggle.com/models/lavender991/sa-progan/)]`
+Due to high resolution and model size, the trained weights are hosted on Kaggle. 
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-SA--MedGAN_Models-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/models/lavender991/sa-progan/)
 
 ## 📜 Citation
 If you use this work in your research, please cite our forthcoming paper:

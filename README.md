@@ -43,7 +43,7 @@ The complete modular implementation is available in the provided Jupyter Noteboo
 
 ### 2. Pre-trained Models
 Due to high resolution and model size, the trained weights are hosted on Kaggle.
-* **Kaggle Model URL:** `[PLACEHOLDER: Insert your Kaggle Model Link here]`
+* **Kaggle Model URL:** `[PLACEHOLDER: [Insert your Kaggle Model Link here](https://www.kaggle.com/models/lavender991/sa-progan/)]`
 
 ## 📜 Citation
 If you use this work in your research, please cite our forthcoming paper:
